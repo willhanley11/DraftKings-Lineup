@@ -36,7 +36,7 @@ Given the salary and position restrictions, our goal is to find the most project
 
 The below scatter plot shows the projected DraftKings scores for all players, and highlights where the optimal players are located. The optimals have the highest projected score, while having the lower salaries, so it makes sense that they are seen in the bottom right quadrant. 
 
-<a href="url"><img src="./images/download.png" height="500" width="600" ></a>
+<a href="url"><img src="./images/download.png" height="500" width="750" ></a>
 
 
 
