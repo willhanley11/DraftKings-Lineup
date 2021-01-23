@@ -42,6 +42,6 @@ The below scatter plot shows the projected DraftKings scores for all players, an
 
 Now, it's time to make the money. We can enter our lineup into the DraftKings competition. 
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.05.46%20PM.png" height="300" width="900" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.05.46%20PM.png" height="200" width="900" ></a>
 
 
