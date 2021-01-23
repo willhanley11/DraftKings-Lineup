@@ -38,10 +38,10 @@ The below scatter plot shows the projected DraftKings scores for all players, an
 
 <a href="url"><img src="./images/download.png" height="500" width="700" ></a>
 
-### Putting the Model to the test!!!
-
 Now, it's time to make the money. We can enter our lineup into the DraftKings competition. 
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.05.46%20PM.png" height="150" width="900" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.05.46%20PM.png" height="200" width="900" ></a>
 
+### Results
 
+Still pending. So far the model has made money on 2/4 nights. While the sample size is very small, it is still very encouraging considering only 19% of DraftKings users are profitable. 
