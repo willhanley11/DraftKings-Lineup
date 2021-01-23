@@ -30,7 +30,7 @@ Given the salary and position restrictions, our goal is to find the most project
 
 The optimal lineup:
 
-<a href="url"><img src="./images/Screen%20Shot%202021-01-23%20at%2011.17.52%20AM.png" height="350" width="600" ></a>
+<a href="url"><img src="./images/Screen%20Shot%202021-01-23%20at%2011.17.52%20AM.png" height="350" width="800" ></a>
 
 
 
