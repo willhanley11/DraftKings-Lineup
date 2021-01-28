@@ -28,7 +28,20 @@ Using a VAR model with certain restrictions and a whole lot of "pd.merge", I was
 
 Given the salary and position restrictions, our goal is to find the most projected points from the player pool. Using an optimizer that I modifed from fantasy football (optimizer written by Branko Blagojevic), we are able to find the players with the highest values and from that, find our optimal lineup.
 
+### The Optimal Lineup
 
+<a href="url"><img src="./images/Screen%20Shot%202021-01-23%20at%2011.17.52%20AM.png" height="350" width="800" ></a>
 
+### Optimal Lineup vs. All Players 
 
+The below scatter plot shows the projected DraftKings scores for all players, and highlights where the optimal players are located. The optimals have the highest projected score, while having the lower salaries, so it makes sense that they are seen in the bottom right quadrant. 
 
+<a href="url"><img src="./images/download.png" height="500" width="700" ></a>
+
+Now, it's time to make the money. We can enter our lineup into the DraftKings competition. 
+
+<a href="url"><img src="./images/Screen%20Shot%202021-01-22%20at%204.05.46%20PM.png" height="200" width="900" ></a>
+
+### Results
+
+After putting the model into the competition, we ended up making money in 2/6 days. While that may not seem substantial, it is important to remember that only 16% of users have made money overall in the past week (according to the Draftkings website). We did not make money, but we are close to even!! Not bad! Also, this is a pretty small sample size so we will have to continue to test out the model. 
